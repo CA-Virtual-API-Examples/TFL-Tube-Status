@@ -1,4 +1,0 @@
-GROUP-NAME:Default Group
-PAIR-NAME:Prediction Detail
-GET /TrackerNet/PredictionDetailed/{line}/{station}
-
