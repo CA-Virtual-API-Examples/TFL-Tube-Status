@@ -1,4 +1,0 @@
-GROUP-NAME:Default Group
-PAIR-NAME:Line Status Incidents Only
-GET /TrackerNet/LineStatus/IncidentsOnly
-
